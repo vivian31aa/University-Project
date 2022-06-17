@@ -1,0 +1,408 @@
+[46, ' Federal-gov', 297906, ' Bachelors', 13, ' Married-civ-spouse', ' Prof-specialty', ' Husband', ' Asian-Pac-Islander', ' Male', 0, 0, 50, ' United-States', 13794, 1]
+continuous feature 10
+threshold = 49999.5
+data feature = 0
+continuous feature 10
+threshold = 20655.0
+data feature = 0
+continuous feature 10
+threshold = 10025.5
+data feature = 0
+continuous feature 10
+threshold = 4781.0
+data feature = 0
+categorical feature 5
+data feature =  Married-civ-spouse
+continuous feature 4
+threshold = 8.5
+data feature = 13
+continuous feature 4
+threshold = 12.5
+data feature = 13
+continuous feature 11
+threshold = 1207.5
+data feature = 0
+categorical feature 6
+data feature =  Prof-specialty
+categorical feature 13
+data feature =  United-States
+categorical feature 8
+data feature =  Asian-Pac-Islander
+leaf! return 1
+[37, ' Federal-gov', 40955, ' Some-college', 10, ' Never-married', ' Other-service', ' Own-child', ' White', ' Male', 0, 0, 40, ' Japan', 6985, 0]
+continuous feature 10
+threshold = 49999.5
+data feature = 0
+continuous feature 10
+threshold = 20655.0
+data feature = 0
+continuous feature 10
+threshold = 10025.5
+data feature = 0
+continuous feature 10
+threshold = 4781.0
+data feature = 0
+categorical feature 5
+data feature =  Never-married
+continuous feature 12
+threshold = 50.0
+data feature = 40
+continuous feature 0
+threshold = 53.5
+data feature = 37
+continuous feature 0
+threshold = 35.0
+data feature = 37
+categorical feature 3
+data feature =  Some-college
+categorical feature 6
+data feature =  Other-service
+leaf! return 0
+[19, ' ?', 181265, ' Some-college', 10, ' Never-married', ' ?', ' Own-child', ' White', ' Female', 0, 0, 30, ' United-States', 6777, 0]
+continuous feature 10
+threshold = 49999.5
+data feature = 0
+continuous feature 10
+threshold = 20655.0
+data feature = 0
+continuous feature 10
+threshold = 10025.5
+data feature = 0
+continuous feature 10
+threshold = 4781.0
+data feature = 0
+categorical feature 5
+data feature =  Never-married
+continuous feature 12
+threshold = 50.0
+data feature = 30
+continuous feature 0
+threshold = 53.5
+data feature = 19
+continuous feature 0
+threshold = 35.0
+data feature = 19
+continuous feature 11
+threshold = 1412.0
+data feature = 0
+continuous feature 0
+threshold = 25.5
+data feature = 19
+categorical feature 3
+data feature =  Some-college
+categorical feature 1
+data feature =  ?
+leaf! return 0
+[31, ' Self-emp-inc', 49923, ' HS-grad', 9, ' Married-civ-spouse', ' Exec-managerial', ' Husband', ' White', ' Male', 0, 0, 40, ' United-States', 11407, 0]
+continuous feature 10
+threshold = 49999.5
+data feature = 0
+continuous feature 10
+threshold = 20655.0
+data feature = 0
+continuous feature 10
+threshold = 10025.5
+data feature = 0
+continuous feature 10
+threshold = 4781.0
+data feature = 0
+categorical feature 5
+data feature =  Married-civ-spouse
+continuous feature 4
+threshold = 8.5
+data feature = 9
+continuous feature 4
+threshold = 12.5
+data feature = 9
+continuous feature 11
+threshold = 1301.5
+data feature = 0
+categorical feature 13
+data feature =  United-States
+categorical feature 6
+data feature =  Exec-managerial
+categorical feature 8
+data feature =  White
+categorical feature 1
+data feature =  Self-emp-inc
+continuous feature 0
+threshold = 49.5
+data feature = 31
+categorical feature 7
+data feature =  Husband
+continuous feature 2
+threshold = 258361.0
+data feature = 49923
+continuous feature 10
+threshold = 1551.5
+data feature = 0
+continuous feature 2
+threshold = 136815.0
+data feature = 49923
+continuous feature 12
+threshold = 60.0
+data feature = 40
+continuous feature 2
+threshold = 85045.5
+data feature = 49923
+leaf! return 0
+[76, ' ?', 224680, ' Prof-school', 15, ' Married-civ-spouse', ' ?', ' Husband', ' White', ' Male', 0, 1258, 20, ' United-States', 13935, 0]
+continuous feature 10
+threshold = 49999.5
+data feature = 0
+continuous feature 10
+threshold = 20655.0
+data feature = 0
+continuous feature 10
+threshold = 10025.5
+data feature = 0
+continuous feature 10
+threshold = 4781.0
+data feature = 0
+categorical feature 5
+data feature =  Married-civ-spouse
+continuous feature 4
+threshold = 8.5
+data feature = 15
+continuous feature 4
+threshold = 12.5
+data feature = 15
+continuous feature 11
+threshold = 1207.5
+data feature = 1258
+continuous feature 11
+threshold = 1836.5
+data feature = 1258
+continuous feature 2
+threshold = 344637.5
+data feature = 224680
+leaf! return 0
+[42, ' Self-emp-inc', 168071, ' HS-grad', 9, ' Married-civ-spouse', ' Sales', ' Husband', ' White', ' Male', 0, 0, 43, ' United-States', 15341, 1]
+continuous feature 10
+threshold = 49999.5
+data feature = 0
+continuous feature 10
+threshold = 20655.0
+data feature = 0
+continuous feature 10
+threshold = 10025.5
+data feature = 0
+continuous feature 10
+threshold = 4781.0
+data feature = 0
+categorical feature 5
+data feature =  Married-civ-spouse
+continuous feature 4
+threshold = 8.5
+data feature = 9
+continuous feature 4
+threshold = 12.5
+data feature = 9
+continuous feature 11
+threshold = 1301.5
+data feature = 0
+categorical feature 13
+data feature =  United-States
+categorical feature 6
+data feature =  Sales
+continuous feature 2
+threshold = 415170.5
+data feature = 168071
+categorical feature 7
+data feature =  Husband
+categorical feature 1
+data feature =  Self-emp-inc
+categorical feature 8
+data feature =  White
+continuous feature 2
+threshold = 199516.0
+data feature = 168071
+continuous feature 0
+threshold = 54.5
+data feature = 42
+continuous feature 0
+threshold = 43.0
+data feature = 42
+continuous feature 2
+threshold = 109083.5
+data feature = 168071
+continuous feature 0
+threshold = 34.5
+data feature = 42
+continuous feature 0
+threshold = 36.0
+data feature = 42
+leaf! return 1
+[30, ' Private', 295010, ' HS-grad', 9, ' Never-married', ' Adm-clerical', ' Not-in-family', ' White', ' Female', 0, 0, 40, ' United-States', 5567, 0]
+continuous feature 10
+threshold = 49999.5
+data feature = 0
+continuous feature 10
+threshold = 20655.0
+data feature = 0
+continuous feature 10
+threshold = 10025.5
+data feature = 0
+continuous feature 10
+threshold = 4781.0
+data feature = 0
+categorical feature 5
+data feature =  Never-married
+continuous feature 12
+threshold = 50.0
+data feature = 40
+continuous feature 0
+threshold = 53.5
+data feature = 30
+continuous feature 0
+threshold = 35.0
+data feature = 30
+continuous feature 11
+threshold = 1412.0
+data feature = 0
+continuous feature 0
+threshold = 25.5
+data feature = 30
+categorical feature 3
+data feature =  HS-grad
+continuous feature 0
+threshold = 30.0
+data feature = 30
+continuous feature 2
+threshold = 323023.5
+data feature = 295010
+categorical feature 6
+data feature =  Adm-clerical
+leaf! return 0
+[17, ' Private', 140027, ' 11th', 7, ' Never-married', ' Other-service', ' Own-child', ' White', ' Female', 0, 0, 25, ' United-States', 16624, 0]
+continuous feature 10
+threshold = 49999.5
+data feature = 0
+continuous feature 10
+threshold = 20655.0
+data feature = 0
+continuous feature 10
+threshold = 10025.5
+data feature = 0
+continuous feature 10
+threshold = 4781.0
+data feature = 0
+categorical feature 5
+data feature =  Never-married
+continuous feature 12
+threshold = 50.0
+data feature = 25
+continuous feature 0
+threshold = 53.5
+data feature = 17
+continuous feature 0
+threshold = 35.0
+data feature = 17
+continuous feature 11
+threshold = 1412.0
+data feature = 0
+continuous feature 0
+threshold = 25.5
+data feature = 17
+categorical feature 3
+data feature =  11th
+leaf! return 0
+[48, ' Self-emp-inc', 51579, ' Bachelors', 13, ' Married-civ-spouse', ' Exec-managerial', ' Husband', ' White', ' Male', 0, 0, 60, ' United-States', 18638, 1]
+continuous feature 10
+threshold = 49999.5
+data feature = 0
+continuous feature 10
+threshold = 20655.0
+data feature = 0
+continuous feature 10
+threshold = 10025.5
+data feature = 0
+continuous feature 10
+threshold = 4781.0
+data feature = 0
+categorical feature 5
+data feature =  Married-civ-spouse
+continuous feature 4
+threshold = 8.5
+data feature = 13
+continuous feature 4
+threshold = 12.5
+data feature = 13
+continuous feature 11
+threshold = 1207.5
+data feature = 0
+categorical feature 6
+data feature =  Exec-managerial
+categorical feature 13
+data feature =  United-States
+categorical feature 7
+data feature =  Husband
+continuous feature 12
+threshold = 44.0
+data feature = 60
+categorical feature 8
+data feature =  White
+categorical feature 1
+data feature =  Self-emp-inc
+continuous feature 4
+threshold = 14.5
+data feature = 13
+continuous feature 12
+threshold = 62.5
+data feature = 60
+categorical feature 3
+data feature =  Bachelors
+continuous feature 0
+threshold = 44.5
+data feature = 48
+continuous feature 0
+threshold = 51.5
+data feature = 48
+continuous feature 12
+threshold = 48.0
+data feature = 60
+continuous feature 0
+threshold = 47.0
+data feature = 48
+continuous feature 0
+threshold = 48.0
+data feature = 48
+continuous feature 2
+threshold = 256518.0
+data feature = 51579
+leaf! return 1
+[22, ' State-gov', 119838, ' Some-college', 10, ' Never-married', ' Other-service', ' Own-child', ' White', ' Male', 0, 0, 10, ' United-States', 18939, 0]
+continuous feature 10
+threshold = 49999.5
+data feature = 0
+continuous feature 10
+threshold = 20655.0
+data feature = 0
+continuous feature 10
+threshold = 10025.5
+data feature = 0
+continuous feature 10
+threshold = 4781.0
+data feature = 0
+categorical feature 5
+data feature =  Never-married
+continuous feature 12
+threshold = 50.0
+data feature = 10
+continuous feature 0
+threshold = 53.5
+data feature = 22
+continuous feature 0
+threshold = 35.0
+data feature = 22
+continuous feature 11
+threshold = 1412.0
+data feature = 0
+continuous feature 0
+threshold = 25.5
+data feature = 22
+categorical feature 3
+data feature =  Some-college
+categorical feature 1
+data feature =  State-gov
+leaf! return 0
